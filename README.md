@@ -1,1 +1,2 @@
-# travel-planner
+# travel-planner✈️
+ **Project overview📙**
