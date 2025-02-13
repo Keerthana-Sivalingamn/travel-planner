@@ -1,0 +1,65 @@
+/* Home Page Styles */
+.home-container {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background: #3498db;
+    color: white;
+  }
+  
+  .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .nav-link {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 1rem;
+  }
+  
+  .hero-section {
+    padding: 50px 20px;
+    background: #f1f1f1;
+  }
+  
+  .hero-section h2 {
+    font-size: 2rem;
+  }
+  
+  .btn {
+    background: #3498db;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .features {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    gap: 20px;
+  }
+  
+  .feature-box {
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    width: 200px;
+  }
+  
+  .footer {
+    background: #3498db;
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+  }
+  
